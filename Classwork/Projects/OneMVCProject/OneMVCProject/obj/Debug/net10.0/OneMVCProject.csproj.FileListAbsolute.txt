@@ -1,0 +1,197 @@
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\appsettings.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.staticwebassets.runtime.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.staticwebassets.endpoints.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.exe
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.deps.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.runtimeconfig.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.dll
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.pdb
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.AssemblyInfoInputs.cache
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.AssemblyInfo.cs
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.csproj.CoreCompileInputs.cache
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.RazorAssemblyInfo.cache
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.RazorAssemblyInfo.cs
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.sourcelink.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\scopedcss\bundle\OneMVCProject.styles.css
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\scopedcss\projectbundle\OneMVCProject.bundle.scp.css
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\sxw7zhg9nw-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\xevm60o3js-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\i6vyz7f14m-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ibxoxqun05-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\b5416jc3mw-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\zm7t5jk0or-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\24diflkdam-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\fo6kwae3b5-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\k9z2nri92n-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ew5wm2bho0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\uj6q21i38v-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ehq8tse82e-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\wab0wy6vkn-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\aa6lfnjvj1-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\j167mxj9pu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ajldsl9jsm-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\f1fasz6758-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\s3vx96mk3k-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\51cwd8fza8-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\x95e8o53ql-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\w21oi2i43r-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\3yl5tl2o6c-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\hpkrb0ciz2-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\7z2jrlmrlm-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\24j2zwpcdm-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\4kyrjigu9d-{0}-06098lyss8-06098lyss8.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\7ejaq1v13z-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\bufrvz4vau-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\o6johlaisv-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\wi3beyssz1-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\k5dfni40bg-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\7xn5wxhura-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\krrm8tw39l-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\bt3tr8tevz-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\bp3pij1dvv-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\1komh5xx04-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\2xokdnoxex-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\pcin8eb2fw-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\gat4prq7ea-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\4vzvy1gyx9-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\w2ny02vxdj-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\h2sfwiex7b-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\2mse0bcwf9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\6wk4ywfvsu-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\jrwehnpc71-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\1fq333ciuy-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\b8vl35njax-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\dd8z1jpwm8-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ik9exqzseq-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\z20aj6g93j-{0}-356vix0kms-356vix0kms.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\jgjg31inxv-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\3w2seljeg4-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\hq17edkdko-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\xzvhgbl92l-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\hvuhqtuezr-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\lm6ughgpzh-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\69mfb314gg-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\e1tah7fwmh-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\xyjl0r78ba-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\uvw0b77cfx-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\q0a7dq3nv7-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ef4nsj8x20-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\mv6qtk3tl1-{0}-rtmwot2w5g-rtmwot2w5g.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\udwnn0fiu3-{0}-rtmwot2w5g-rtmwot2w5g.gz
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.dll
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\refint\OneMVCProject.dll
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.pdb
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.genruntimeconfig.cache
+C:\Users\My data\data\ASP NET Core MVC\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\ref\OneMVCProject.dll
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\appsettings.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.staticwebassets.endpoints.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.staticwebassets.runtime.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.exe
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.deps.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.runtimeconfig.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.dll
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\bin\Debug\net10.0\OneMVCProject.pdb
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.AssemblyInfoInputs.cache
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.AssemblyInfo.cs
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.csproj.CoreCompileInputs.cache
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.RazorAssemblyInfo.cache
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.RazorAssemblyInfo.cs
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\scopedcss\bundle\OneMVCProject.styles.css
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\scopedcss\projectbundle\OneMVCProject.bundle.scp.css
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\sxw7zhg9nw-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\xevm60o3js-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\i6vyz7f14m-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ibxoxqun05-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\b5416jc3mw-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\zm7t5jk0or-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\24diflkdam-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\fo6kwae3b5-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\k9z2nri92n-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ew5wm2bho0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\uj6q21i38v-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ehq8tse82e-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\wab0wy6vkn-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\aa6lfnjvj1-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\j167mxj9pu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ajldsl9jsm-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\f1fasz6758-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\s3vx96mk3k-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\51cwd8fza8-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\x95e8o53ql-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\w21oi2i43r-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\3yl5tl2o6c-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\hpkrb0ciz2-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\7z2jrlmrlm-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\24j2zwpcdm-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\4kyrjigu9d-{0}-06098lyss8-06098lyss8.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\7ejaq1v13z-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\bufrvz4vau-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\o6johlaisv-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\wi3beyssz1-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\k5dfni40bg-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\7xn5wxhura-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\krrm8tw39l-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\bt3tr8tevz-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\bp3pij1dvv-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\1komh5xx04-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\2xokdnoxex-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\pcin8eb2fw-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\gat4prq7ea-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\4vzvy1gyx9-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\w2ny02vxdj-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\h2sfwiex7b-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\2mse0bcwf9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\6wk4ywfvsu-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\jrwehnpc71-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\1fq333ciuy-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\b8vl35njax-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\dd8z1jpwm8-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ik9exqzseq-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\z20aj6g93j-{0}-356vix0kms-356vix0kms.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\jgjg31inxv-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\3w2seljeg4-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\hq17edkdko-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\xzvhgbl92l-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\hvuhqtuezr-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\lm6ughgpzh-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\69mfb314gg-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\e1tah7fwmh-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\xyjl0r78ba-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\uvw0b77cfx-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\q0a7dq3nv7-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\ef4nsj8x20-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\mv6qtk3tl1-{0}-rtmwot2w5g-rtmwot2w5g.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\compressed\udwnn0fiu3-{0}-rtmwot2w5g-rtmwot2w5g.gz
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.dll
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\refint\OneMVCProject.dll
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.pdb
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\OneMVCProject.genruntimeconfig.cache
+C:\Users\My data\data\Docker\Classwork\Projects\OneMVCProject\OneMVCProject\obj\Debug\net10.0\ref\OneMVCProject.dll
