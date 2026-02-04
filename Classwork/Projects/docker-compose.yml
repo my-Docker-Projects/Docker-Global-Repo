@@ -13,7 +13,7 @@ services:
       - postgres_data:/var/lib/postgresql
 
   server:
-    build: ./WebApiTransfer
+    build: ./WebApiTransfer/transfer-back
     container_name: transfer_api
     volumes:
       - image_data:/app/images
@@ -24,7 +24,7 @@ services:
 
   front:
     build: 
-      context: ./my-transfer-ts
+      context: ./my-transfer-ts/transfer-front
     container_name: transfer_ts_front
     depends_on:
       - server
