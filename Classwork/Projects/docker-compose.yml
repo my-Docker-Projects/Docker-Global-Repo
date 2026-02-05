@@ -1,11 +1,11 @@
 networks:
-    transfer_net
-        driver: bridge
+  transfer_net:
+    driver: bridge
 
 services:
   db:
     image: postgres:18.1
-    container_name: db
+    container_name: postgres_db
     restart: always
     ports:
       - "5022:5432"
@@ -17,8 +17,8 @@ services:
       - /data/transfer/postgres:/var/lib/postgresql
     networks:
       - transfer_net
-
-  server: 
+    
+  server:
     build: ./WebApiTransfer/transfer-back
     container_name: transfer_api
     restart: always
@@ -37,7 +37,7 @@ services:
   front:
     build: 
       context: ./my-transfer-ts/transfer-front
-    container_name: transfer_ts_front
+    container_name: react_front
     depends_on:
       - server
     ports:
