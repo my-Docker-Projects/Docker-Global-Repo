@@ -1,3 +1,8 @@
+#Запуск back/front-end через docker-compose
+```
+
+Файл docker-compose.yml
+
 networks:
   transfer_net:
     driver: bridge
@@ -26,7 +31,7 @@ services:
       - /data/transfer/images:/app/images
     environment:
       ASPNETCORE_ENVIRONMENT: Production
-      ConnectionStrings__DefaultConnection: Host=db;Database=mydb;Port=5432;Username=ivan;Password=marko123halosh
+      ConnectionStrings__DefaultConnection: Host=172.31.201.235;Database=mydb;Port=5022;Username=ivan;Password=marko123halosh
     ports:
       - "5898:8080"
     depends_on:
@@ -44,3 +49,18 @@ services:
       - "3987:80"
     networks:
       - transfer_net
+
+Файл .env
+
+POSTGRES_DB=mydb
+POSTGRES_USER=ivan
+POSTGRES_PASSWORD=marko123halosh
+
+
+Запустити усі контейнери у файлі docker-compose
+docker compose up -d
+
+Стопанути і видалити усі контейнери запущені через docker-compose
+docker compose down --volumes --rmi all
+
+```
