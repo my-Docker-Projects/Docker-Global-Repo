@@ -15,6 +15,7 @@ services:
   server: 
     build: ./WebApiTransfer/transfer-back
     container_name: transfer_api
+    restart: always
     volumes:
       - /data/transfer/images:/app/images
     environment:
