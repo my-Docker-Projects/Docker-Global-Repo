@@ -42,5 +42,7 @@ services:
       - server
     ports:
       - "3987:80"
+    environment:
+      VITE_API_BASE_URL: ${VITE_API_BASE_URL}
     networks:
       - transfer_net
