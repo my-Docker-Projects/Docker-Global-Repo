@@ -19,14 +19,15 @@ services:
       - transfer_net
     
   server:
-    build: ./WebApiTransfer/transfer-back
+    #build: ./WebApiTransfer/transfer-back
+    image: avalentyn/transfer-api:latest
     container_name: transfer_api
     restart: always
     volumes:
       - /data/transfer/images:/app/images
     environment:
       ASPNETCORE_ENVIRONMENT: Production
-      ConnectionStrings__DefaultConnection: Host=db;Database=mydb;Port=5432;Username=ivan;Password=marko123halosh
+      ConnectionStrings__DefaultConnection: Host=db;Database=${POSTGRES_DB};Port=5432;Username=${POSTGRES_USER};Password=${POSTGRES_PASSWORD}
     ports:
       - "5898:8080"
     depends_on:

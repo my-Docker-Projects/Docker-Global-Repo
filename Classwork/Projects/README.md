@@ -63,4 +63,21 @@ docker compose up -d
 Стопанути і видалити усі контейнери запущені через docker-compose
 docker compose down --volumes --rmi all
 
+Додали файл Build-Push.sh
+
+Надаємо права цьому файлу щоб могти його використовувати
+chmod +x Build-Push.sh
+
+Запускаємо файл
+./Build-Push.sh
+ 
+
+```
+
+#image docker hun
+```
+
+docker compose pull
+docker compose up -d
+
 ```
