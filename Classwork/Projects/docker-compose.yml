@@ -24,7 +24,7 @@ services:
     container_name: transfer_api
     restart: always
     volumes:
-      - /data/transfer/images:/app/images
+      - ${VOLUME_SERVER_API}
     environment:
       ASPNETCORE_ENVIRONMENT: Production
       ConnectionStrings__DefaultConnection: Host=db;Database=${POSTGRES_DB};Port=5432;Username=${POSTGRES_USER};Password=${POSTGRES_PASSWORD}
