@@ -36,10 +36,9 @@ services:
       - transfer_net
 
   front:
-    build: 
-      context: ./my-transfer-ts/transfer-front
-      args:
-        VITE_API_BASE_URL: ${VITE_API_BASE_URL}
+    #build: 
+    #  context: ./my-transfer-ts/transfer-front
+    image: avalentyn/transfer-react:latest
     container_name: react_front
     depends_on:
       - server
