@@ -3,7 +3,7 @@ set -e  # зупиняє скрипт при помилці
 
 # ==== WEB ====
 cd my-transfer-ts/transfer-front
-docker build -t transfer-react --build-arg VITE_API_BASE_URL=${VITE_API_BASE_URL} .
+docker build -t transfer-react --build-arg VITE_API_BASE_URL=http://18.159.211.88:5898 .
 docker tag transfer-react:latest avalentyn/transfer-react:latest
 docker push avalentyn/transfer-react:latest
 echo "Done ---client---!"
