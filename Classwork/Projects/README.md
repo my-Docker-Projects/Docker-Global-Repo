@@ -60,7 +60,7 @@ POSTGRES_PASSWORD=marko123halosh
 Запустити усі контейнери у файлі docker-compose
 docker compose up -d
 
-Стопанути і видалити усі контейнери запущені через docker-compose
+Стопанути і видалити усі контейнери та образи запущені через docker-compose
 docker compose down --volumes --rmi all
 
 Додали файл Build-Push.sh
