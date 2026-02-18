@@ -16,5 +16,4 @@ docker push avalentyn/transfer-api:latest
 
 echo "Done ---api---!"
 
-read -p "Press any key to exit..."
- 
+#read -p "Press any key to exit..."
