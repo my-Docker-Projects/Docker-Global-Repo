@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e  # зупиняє скрипт при помилці
+set -ex  # -e зупиняє скрипт при помилці, -x покаже хід виконання
 
 # ==== WEB ====
 cd my-transfer-ts/transfer-front

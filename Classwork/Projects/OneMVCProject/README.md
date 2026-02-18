@@ -29,6 +29,8 @@ docker build -t one-mvc-project .
 #Перед цим залогінитись у hub.docker.com
 docker login
 
+(docker hub password - JCCpKds9hVuA8WJ)
+
 #Створення тега
 #tag - це назва репозиторія на hub.docker.com
 docker tag one-mvc-project:latest avalentyn/one-mvc-project:latest
